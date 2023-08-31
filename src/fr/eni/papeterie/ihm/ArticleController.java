@@ -2,13 +2,12 @@ package fr.eni.papeterie.ihm;
 
 import java.util.List;
 
-
+import fr.eni.papeterie.bll.BLLException;
+import fr.eni.papeterie.bll.CatalogueManager;
 import fr.eni.papeterie.bo.Article;
 import fr.eni.papeterie.ihm.ercCatalogue.CatalogueWindow;
 import fr.eni.papeterie.ihm.ercGestion.IPanelBoutonsObserver;
 import fr.eni.papeterie.ihm.ercGestion.GestionWindow;
-import fr.eni.papeteries.bll.BLLException;
-import fr.eni.papeteries.bll.CatalogueManager;
 
 public class ArticleController implements IPanelBoutonsObserver {
 	

@@ -1,4 +1,4 @@
-package fr.eni.papeteries.bll;
+package fr.eni.papeterie.bll;
 
 public class BLLException extends Exception {
 	

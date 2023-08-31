@@ -1,4 +1,4 @@
-package fr.eni.papeteries.bll;
+package fr.eni.papeterie.bll;
 
 import java.util.ArrayList;
 import java.util.List;
